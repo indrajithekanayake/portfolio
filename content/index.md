@@ -2,7 +2,7 @@
 title: "Hey! 👋"
 draft: false
 ---
-I'm an independent researcher, worked in academia for 5 years, and am currently working at [codification.io](https://codification.io/), a consulting firm based in Newcastle upon Tyne, England. 
+I'm an independent researcher, worked in academia for 5 years, and am currently working at [codification.io](https://codification.io/), a cloud-native consulting firm based in Newcastle upon Tyne, England. 
 
 I have three primary goals* in my life;
 

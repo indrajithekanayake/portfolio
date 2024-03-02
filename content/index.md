@@ -8,7 +8,7 @@ I have three primary goals* in my life;
 
 1. Being the best educator I can be
 2. Designing interactions in immersive learning environments
-3. Brain-computer interface and the next generation of artificial intelligence.
+3. Working forefront, brain-computer interface, and the next generation of artificial intelligence.
 
 ![[research interests.png]]
 <p style="text-align: center;">
@@ -28,6 +28,9 @@ I have three primary goals* in my life;
 
 ##### 2023
 * [[Judge - Nimi Shark Tank]]
+* [[Run Machine Learning Workloads on Apache Spark]]
+* [[Deploying web applications on Microsoft Azure]]
+* [[Host web apps with GitHub Pages technical workshop]]
 
 ##### 2022
 * [[Awareness sessions on competitive programming - IEEEXtreme10.0]]

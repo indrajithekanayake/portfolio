@@ -31,6 +31,7 @@ I have three primary goals* in my life;
 * [[Run Machine Learning Workloads on Apache Spark]]
 * [[Deploying web applications on Microsoft Azure]]
 * [[Host web apps with GitHub Pages technical workshop]]
+* [[Mentor IEEE VoLT Program]]
 
 ##### 2022
 * [[Awareness sessions on competitive programming - IEEEXtreme10.0]]

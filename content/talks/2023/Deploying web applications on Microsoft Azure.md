@@ -8,6 +8,7 @@ tags:
 
 This is a physical workshop we conducted at University of Moratuwa, Sri Lanka. I was invited to conduct a session on Azure web apps for over 100 audience. 
 
+**Event Photographs:**
 <p>
   <img src="../../images/2023-uom-foresight-1.jpeg" alt="uom foresight"/>
   <img src="../../images/2023-uom-foresight-2.jpeg" alt="uom foresight"/>

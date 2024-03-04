@@ -16,7 +16,7 @@ export default ((opts?: Options) => {
         <hr />
         <p>
           {i18n(cfg.locale).components.footer}{" "}
-          CMS powered by <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a><br></br> Created with ❤️ by Indrajith © {year}
+          Created by Indrajith © {year} 
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (

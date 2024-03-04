@@ -2,7 +2,7 @@
 title: "Hey! 👋"
 draft: false
 ---
-I'm an independent researcher, worked in academia for 5 years, and am currently working at [codification.io](https://codification.io/), a cloud-native consulting firm based in Newcastle upon Tyne, England. I'm also a recipient of the [Most Valuable Professional(MVP) Award](https://mvp.microsoft.com/en-US/MVP/profile/a25fdb68-34b6-4106-a247-09ac2caffed4) from Microsoft.
+I'm an independent researcher, worked in academia for 5 years, and am currently working at <a href="https://codification.io/" target="_blank">codification.io</a>, a cloud-native consulting firm based in Newcastle upon Tyne, England. I'm also a recipient of the <a href="https://mvp.microsoft.com/en-US/MVP/profile/a25fdb68-34b6-4106-a247-09ac2caffed4" target="_blank">Most Valuable Professional(MVP) Award</a> from Microsoft.
 
 I have three primary goals* in my life;
 

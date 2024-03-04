@@ -6,7 +6,7 @@ tags:
   - 2021_talks
 ---
 
-Keynote at the inauguration of Microsoft Learn Student Club [Shri Shivaji Memorial Society’s Institute of Information Technology](https://aissmsioit.org/)Pune, India.
+Keynote at the inauguration of Microsoft Learn Student Club <a href="https://aissmsioit.org/" target="_blank">Shri Shivaji Memorial Society’s Institute of Information Technology</a>, Pune, India.
 
 **Event Photographs:**
 <p>

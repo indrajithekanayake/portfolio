@@ -6,7 +6,7 @@ tags:
   - 2023_talks
 ---
 
-Invited as a Judge at [Nimi*](https://www.nimidev.com/) Shark Tank annual event.
+Invited as a Judge at <a href="https://www.nimidev.com/" target="_blank">Nimi*</a> Shark Tank annual event.
 
 **Event Photographs:**
 <p>

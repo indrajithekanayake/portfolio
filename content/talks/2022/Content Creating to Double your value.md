@@ -6,7 +6,7 @@ tags:
   - 2022_talks
 ---
 
-I was honored to participate in the latest episode of [Vetstoria](https://www.vetstoria.com/) Podcast
+I was honored to participate in the latest episode of <a href="https://www.vetstoria.com/" target="_blank">Vetstoria</a> Podcast
 
 **Event Photographs:**
 <p>

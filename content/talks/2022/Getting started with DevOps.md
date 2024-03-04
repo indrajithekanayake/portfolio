@@ -6,7 +6,7 @@ tags:
   - 2022_talks
 ---
 
-Getting started with DevOps at IEEE Student Branch [Pranveer Singh Institute Of Technology](https://www.psit.ac.in/), Kanpur, India.
+Getting started with DevOps at IEEE Student Branch <a href="https://www.psit.ac.in/" target="_blank">Pranveer Singh Institute Of Technology</a>, Kanpur, India.
 
 **Event Photographs:**
 <p >

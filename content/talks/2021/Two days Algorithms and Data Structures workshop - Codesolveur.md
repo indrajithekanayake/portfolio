@@ -6,7 +6,7 @@ tags:
   - 2021_talks
 ---
 
-speaker for the codeSolveur-2021 presented by the IEEE Student Branch of [General Sir John Kotelawala Defence University](https://www.kdu.ac.lk/undergraduate-courses/).
+speaker for the codeSolveur-2021 presented by the IEEE Student Branch of <a href="https://www.kdu.ac.lk/undergraduate-courses/" target="_blank">General Sir John Kotelawala Defence University</a>.
 
 **Event Photographs:**
 <p>

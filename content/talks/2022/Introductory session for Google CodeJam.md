@@ -6,7 +6,7 @@ tags:
   - 2022_talks
 ---
 
-Introductory session for Google CodeJam(As a former contestant) at IEEE Student Branch [University of Jaffna](https://www.jfn.ac.lk/).
+Introductory session for Google CodeJam(As a former contestant) at IEEE Student Branch <a href="https://www.jfn.ac.lk/" target="_blank">University of Jaffna</a>.
 
 **Event Photographs:**
 <p>

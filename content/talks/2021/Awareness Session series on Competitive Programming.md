@@ -6,7 +6,7 @@ tags:
   - 2021_talks
 ---
 
-As the Sri Lanka Section lead for IEEEXtreme 15.0 I conducted awareness session seris for competitive programming among IEEE Student Branches of [University of Vocational Technology](http://univotec.ac.lk/), [University of Ruhuna](https://www.ruh.ac.lk/index.php/en/), [University of Sri Jayawardenapura](https://www.sjp.ac.lk/), [University of Kelaniya](https://www.kln.ac.lk/), and [Southeastern University  of Sri Lanka](https://www.seu.ac.lk/).
+As the Sri Lanka Section lead for IEEEXtreme 15.0 I conducted an awareness session seris for competitive programming among IEEE Student Branches of <a href="http://univotec.ac.lk/" target="_blank">University of Vocational Technology</a>, <a href="https://www.ruh.ac.lk/index.php/en/" target="_blank">University of Ruhuna</a>, <a href="https://www.sjp.ac.lk/" target="_blank">University of Sri Jayawardenapura</a>, <a href="https://www.kln.ac.lk/" target="_blank">University of Kelaniya</a>, and <a href="https://www.seu.ac.lk/" target="_blank">Southeastern University  of Sri Lanka</a>.
 
 **Event Photographs:**
 <p>

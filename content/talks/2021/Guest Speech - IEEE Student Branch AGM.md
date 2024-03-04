@@ -6,7 +6,7 @@ tags:
   - 2021_talks
 ---
 
-speaker for the 2021 annual general meeting at the IEEE Student Branch of [University of Vavuniya](https://vau.ac.lk/).
+speaker for the 2021 annual general meeting at the IEEE Student Branch of <a href="https://vau.ac.lk/" target="_blank">University of Vavuniya</a>
 
 **Event Photographs:**
 <p>

@@ -2,7 +2,7 @@
 title: "Hey! 👋"
 draft: false
 ---
-I'm an independent researcher, worked in academia for 5 years, and am currently working at [codification.io](https://codification.io/), a cloud-native consulting firm based in Newcastle upon Tyne, England. 
+I'm an independent researcher, worked in academia for 5 years, and am currently working at [codification.io](https://codification.io/), a cloud-native consulting firm based in Newcastle upon Tyne, England. I'm also a recipient of the [Most Valuable Professional(MVP) Award](https://mvp.microsoft.com/en-US/MVP/profile/a25fdb68-34b6-4106-a247-09ac2caffed4) from Microsoft.
 
 I have three primary goals* in my life;
 
@@ -26,15 +26,23 @@ I have three primary goals* in my life;
 
 ## Invited Talks & Presentations
 
+##### 2024 (Nothing Yet)
+> [!note]
+> Wants to invite me for a physical/ online session? I'm open for 1 session every month. Please fill out this [[form]] to share your interest 
+
+
 ##### 2023
 * [[Judge - Nimi Shark Tank]]
 * [[Run Machine Learning Workloads on Apache Spark]]
 * [[Deploying web applications on Microsoft Azure]]
 * [[Host web apps with GitHub Pages technical workshop]]
 * [[Mentor IEEE VoLT Program]]
+* [[Introduction to Competitive Programming]]
+* [[Road to Success]]
+* [[Podcast LinkedIn and making Connections]]
 
 ##### 2022
-* [[Awareness sessions on competitive programming - IEEEXtreme10.0]]
+* [[Awareness sessions on competitive programming - IEEEXtreme10.0 | Awareness sessions on competitive programming - IEEEXtreme16.0]]
 * [[Content Creating to Double your value]]
 * [[Guest Speech, Generation Z webinar]]
 * [[Getting started with DevOps]]

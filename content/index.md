@@ -28,7 +28,7 @@ I have three primary goals* in my life;
 
 ##### 2024 (Nothing Yet)
 > [!note]
-> Wants to invite me for a physical/ online session? I'm open for 1 session every month. Please fill out this [[Form for Speaking Engagements]] to share your interest 
+> Wants to invite me for a physical/ online session? I'm open for 1 session every month. Please fill out this [[Form for Speaking Engagements | Form]] to share your interest 
 
 
 ##### 2023

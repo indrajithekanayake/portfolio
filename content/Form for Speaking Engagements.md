@@ -3,7 +3,7 @@ title: "Form for Speaking Engagements"
 draft: false
 date: 2024-03-05
 tags:
-  - 2024_talks
+  - 2025_talks
 ---
 
 Could you please fill out the form? And, just to make absolutely sure I don't miss it, would you mind also dropping me a quick email at indrajith[at]ieee.org? Thanks a bunch! 

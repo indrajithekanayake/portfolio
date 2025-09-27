@@ -11,17 +11,17 @@ Microservice architecture is widely adopted among distributed systems. It follow
 
 **Published in:** 9th International Conference on Information Technology Research (ICITR).
 
-**Date of Conference:** December 2024
+**Date of Conference:** 04 February 2025
 
 **Date Added to IEEE _Xplore_:** Pending
 
 **ISBN Information:**
 
-**Electronic ISBN:** Pending
+**Electronic ISBN:** 979-8-3315-1142-5
 
-**Print on Demand(PoD) ISBN:** Pending
+**Print on Demand(PoD) ISBN:** 979-8-3315-1143-2
 
-**DOI:** <a href="https://doi.org/10.48550/arXiv.2411.16639" target="_blank">10.48550/arXiv.2411.16639</a>.
+**DOI:** <a href="https://doi.org/10.1109/ICITR64794.2024.10857769" target="_blank">10.1109/ICITR64794.2024.10857769</a>.
 
 **Publisher**: IEEE
 

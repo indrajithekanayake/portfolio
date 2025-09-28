@@ -1,5 +1,5 @@
 ---
-title: "ARGO-SLSA: Software Supply Chain Security in Argo Workflows,"
+title: ARGO-SLSA Software Supply Chain Security in Argo Workflows,
 draft: false
 tags:
   - conference

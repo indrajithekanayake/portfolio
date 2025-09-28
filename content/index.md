@@ -3,38 +3,98 @@ title: Hey! 👋
 draft: false
 ---
 
-<table style="width:100%;max-width:800px;border:none;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;margin:0px;padding:0;">
-    <tr style="padding:0px;margin:0px;">
-      <td style="padding:0px;margin:0px;">
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;margin:0px;padding: 0;">
-          <tr style="padding:0px;margin:0px;">
-            <td style="padding:2.5%;width:60%;vertical-align:middle;margin:0px;">
-              <p style="margin:0;padding: 0;">I'm currently working full-time in academia. In day time I work full time at <a href="https://tinyurl.com/4vnsku46" target="_blank">Informatics Institute of Technology (IIT) School of Computing</a> as a lecturer. At night I'm volunteer research assistant at <br>1. <a href="https://aitr-lab.github.io/" target="_blank">AITR Lab, Department of Computer Science and Engineering, University of Moratuwa.</a><br>2. <a href="https://marcuop.netlify.app/" target="_blank">MARC Lab, Department of Computer Engineering at University of Peradeniya</a>.
-               </p>
+<div style="display: flex; max-width: 800px; margin: 0 auto; gap: 20px; align-items: center; flex-wrap: wrap;">
+<div style="flex: 1.5; padding: 20px; min-width: 300px;">
 
-              <p>I do research in the areas of HCI, Computer Vision (Bio Med), 3D Computer Vision, Distributed Systems, and Multi Objective Reinforcement Learning. My current advisors are <a href="https://web2.ee.pdn.ac.lk/people/RoshanG" target="_blank">Prof. Roshan Godaliyadda</a>, <a href="https://federation.edu.au/research/find-an-expert/peter-vamplew" target="_blank">Prof. Peter Vamplew</a>, and <a href="https://thanuj.lk/" target="_blank">Dr. Thanuja Ambegoda</a>
-              </p>
-              
-              <p>From 2022 - 2024, I worked at <a href="https://codification.io/" target="_blank">Codification</a>, as a Consultant Platform Engineer. Previously I have also worked <a href="https://ou.ac.lk/electrical-and-comp-engi/" target="_blank">Open University (FT)</a>, <a href="https://www.nsbm.ac.lk/faculty-of-computing/" target="_blank">NSBM Green University (FT)</a>, <a href="https://fct.kln.ac.lk/" target="_blank">University of Kelaniya (PT)</a>, and <a href="https://www.iit.ac.lk/computing/" target="_blank">Informatics Institute of Technology (PT)</a> as a Lecturer. I'm also a recipient of the <a href="https://mvp.microsoft.com/en-US/MVP/profile/a25fdb68-34b6-4106-a247-09ac2caffed4" target="_blank">Most Valuable Professional(MVP) Award</a> from Microsoft.
-              </p>
-              
-              <p>I have an MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_blank">Robert Gordon University, UK</a>, where I did research with <a href="https://www.res.cmb.ac.lk/statistics/sameera-viswakula/" target="_blank">Dr Sameera Viswakula's</a> lab. I have an MBA from <a href="https://www.pim.sjp.ac.lk/" target="_blank">PIM, University of Sri Jayewardenepura</a>, where I did research with Dr Samantha Rathnayake. I also have a BSc(1st) in Software Engineering from <a href="https://www.plymouth.ac.uk/" target="_blank">University of Plymouth</a>, where I worked with <a href="https://www.nsbm.ac.lk/staff/dr-rasika-ranaweera/" target="_blank">Dr Rasika Ranaweera's</a> lab. 
-              </p>
-              <p style="text-align:center">
-                <a target="_blank" href="https://mailhide.io/e/D81GvwHs" target="_blank"> Email</a> &nbsp;/&nbsp;
-                <a href="https://github.com/indrajithekanayake" target="_blank">GitHub</a> &nbsp;/&nbsp;
-                <a href="https://scholar.google.com/citations?user=idLLQh4AAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;/&nbsp;
-                <a href="https://www.linkedin.com/in/indrajithek" target="_blank"> LinkedIn </a>
-              </p>
-            </td>
-            <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/headshot.png">
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+I'm currently working full-time in academia. In day time I work full time at <a href="https://tinyurl.com/4vnsku46" target="_blank">Informatics Institute of Technology (IIT) School of Computing</a> as a lecturer. At night I'm volunteer research assistant at  
+1. <a href="https://aitr-lab.github.io/" target="_blank">AITR Lab, Department of Computer Science and Engineering, University of Moratuwa.</a>  
+2. <a href="https://marcuop.netlify.app/" target="_blank">MARC Lab, Department of Computer Engineering at University of Peradeniya</a>.
+
+I do research in the areas of HCI, Computer Vision (Bio Med), 3D Computer Vision, Distributed Systems, and Multi Objective Reinforcement Learning. My current advisors are <a href="https://web2.ee.pdn.ac.lk/people/RoshanG" target="_blank">Prof. Roshan Godaliyadda</a>, <a href="https://federation.edu.au/research/find-an-expert/peter-vamplew" target="_blank">Prof. Peter Vamplew</a>, and <a href="https://thanuj.lk/" target="_blank">Dr. Thanuja Ambegoda</a>
+
+From 2022 - 2024, I worked at <a href="https://codification.io/" target="_blank">Codification</a>, as a Consultant Platform Engineer. Previously I have also worked <a href="https://ou.ac.lk/electrical-and-comp-engi/" target="_blank">Open University (FT)</a>, <a href="https://www.nsbm.ac.lk/faculty-of-computing/" target="_blank">NSBM Green University (FT)</a>, <a href="https://fct.kln.ac.lk/" target="_blank">University of Kelaniya (PT)</a>, and <a href="https://www.iit.ac.lk/computing/" target="_blank">Informatics Institute of Technology (PT)</a> as a Lecturer. I'm also a recipient of the <a href="https://mvp.microsoft.com/en-US/MVP/profile/a25fdb68-34b6-4106-a247-09ac2caffed4" target="_blank">Most Valuable Professional(MVP) Award</a> from Microsoft.
+
+I have an MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_blank">Robert Gordon University, UK</a>, where I did research with <a href="https://www.res.cmb.ac.lk/statistics/sameera-viswakula/" target="_blank">Dr Sameera Viswakula's</a> lab. I have an MBA from <a href="https://www.pim.sjp.ac.lk/" target="_blank">PIM, University of Sri Jayewardenepura</a>, where I did research with Dr Samantha Rathnayake. I also have a BSc(1st) in Software Engineering from <a href="https://www.plymouth.ac.uk/" target="_blank">University of Plymouth</a>, where I worked with <a href="https://www.nsbm.ac.lk/staff/dr-rasika-ranaweera/" target="_blank">Dr Rasika Ranaweera's</a> lab.
+
+<div style="text-align: center;">
+
+<a href="https://mailhide.io/e/D81GvwHs" target="_blank">Email</a> &nbsp;/&nbsp; <a href="https://github.com/indrajithekanayake" target="_blank">GitHub</a> &nbsp;/&nbsp; <a href="https://scholar.google.com/citations?user=idLLQh4AAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;/&nbsp; <a href="https://www.linkedin.com/in/indrajithek" target="_blank">LinkedIn</a>
+
+</div>
+
+</div>
+<div style="flex: 1; padding: 20px; text-align: center; min-width: 200px;">
+
+![profile photo](images/headshot.png)
+
+<div style="margin-top: 20px; display: flex; flex-direction: column; align-items: center; gap: 15px;">
+
+<div style="text-align: center; margin-bottom: 10px;">
+<h4 style="margin: 0; color: #666; font-size: 14px; font-weight: 600;">Current Affiliations</h4>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 12px;">
+<a href="https://www.iit.ac.lk/computing/" target="_blank" style="text-decoration: none;">
+<div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
+<img src="images/iit-logo.png" alt="IIT" style="width: 50px; height: 50px; object-fit: contain;">
+</div>
+</a>
+<a href="https://aitr-lab.github.io/" target="_blank" style="text-decoration: none;">
+<div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
+<img src="images/cse-logo.jpeg" alt="AITR" style="width: 50px; height: 50px; object-fit: contain;">
+</div>
+</a>
+<a href="https://marcuop.netlify.app/" target="_blank" style="text-decoration: none;">
+<div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
+<img src="images/pera-marc-logo.png" alt="MARC" style="width: 50px; height: 50px; object-fit: contain;">
+</div>
+</a>
+<a href="https://mvp.microsoft.com/en-US/MVP/profile/a25fdb68-34b6-4106-a247-09ac2caffed4" target="_blank" style="text-decoration: none;">
+<div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
+<img src="images/mvp-logo.png" alt="MVP" style="width: 50px; height: 50px; object-fit: contain;">
+</div>
+</a>
+</div>
+
+<div style="text-align: center; margin: 20px 0 10px 0;">
+<h4 style="margin: 0; color: #666; font-size: 14px; font-weight: 600;">Previous Affiliations</h4>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 12px;">
+<a href="https://codification.io/" target="_blank" style="text-decoration: none;">
+<div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
+<img src="images/codi-logo.png" alt="Codification" style="width: 50px; height: 50px; object-fit: contain;">
+</div>
+</a>
+<a href="https://ou.ac.lk/" target="_blank" style="text-decoration: none;">
+<div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
+<img src="images/ousl-logo.jpg" alt="OpenU" style="width: 50px; height: 50px; object-fit: contain;">
+</div>
+</a>
+<a href="https://www.nsbm.ac.lk/faculty-of-computing/" target="_blank" style="text-decoration: none;">
+<div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
+<img src="images/nsbm-logo.png" alt="NSBM" style="width: 50px; height: 50px; object-fit: contain;">
+</div>
+</a>
+<a href="https://fct.kln.ac.lk/" target="_blank" style="text-decoration: none;">
+<div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
+<img src="images/uok-logo.png" alt="Kelaniya" style="width: 50px; height: 50px; object-fit: contain;">
+</div>
+</a>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 12px;">
+<a href="https://www.creativesoftware.com/" target="_blank" style="text-decoration: none;">
+<div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
+<img src="images/creativesoftware-logo.jpeg" alt="Creative Software" style="width: 50px; height: 50px; object-fit: contain;">
+</div>
+</a>
+</div>
+
+</div>
+
+</div>
+</div>
 
 <br>
 <!-- Journal proceedings section start -->
@@ -53,8 +113,8 @@ draft: false
 <details open>
 <summary>2025</summary>
 
-- K. Gunathilake and I. Ekanayake, “[[K8s Pro Sentinel: Extend Secret Security in Kubernetes Cluster]]” in _2024 9th International Conference on Information Technology Research (ICITR)_, 2024, pp. 1–5, doi: 10.1109/ICITR64794.2024.10857769.
-- M. Thariq and I. Ekanayake, “[[ARGO-SLSA: Software Supply Chain Security in Argo Workflows]],” in Proc. 11th Moratuwa Engineering Research Conference (MERCon 2025), Moratuwa, Sri Lanka, 2025,
+- K. Gunathilake and I. Ekanayake, “[[K8s pro sentinel Extend secret security in kubernetes cluster]]” in _2024 9th International Conference on Information Technology Research (ICITR)_, 2024, pp. 1–5, doi: 10.1109/ICITR64794.2024.10857769.
+- M. Thariq and I. Ekanayake, “[[ARGO-SLSA Software Supply Chain Security in Argo Workflows]]” in Proc. 11th Moratuwa Engineering Research Conference (MERCon 2025), Moratuwa, Sri Lanka, 2025,
 
 </details>
 <details open>

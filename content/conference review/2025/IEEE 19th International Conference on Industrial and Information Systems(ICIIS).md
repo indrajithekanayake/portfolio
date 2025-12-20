@@ -8,4 +8,5 @@ ICIIS is a CORE C-ranked conference with an H-index of 18. There are only two en
 
 **Number of Papers reviewed:** 2 
 
+<img src="../../images/2025-iciis-review.png">
 

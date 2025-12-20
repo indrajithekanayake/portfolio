@@ -113,8 +113,10 @@ I have an MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target
 <details open>
 <summary>2025</summary>
 
+- C. Wanigasooriya and I. Ekanayake, “NimbusGuard: A Novel Framework for Proactive Kubernetes Autoscaling Using Deep Q-Networks,” 2025, accepted and to be presented in 40th International Conference on Information Networking (ICOIN). IEEE.
+- S. De Alwis and I. Ekanayake, “Explainability, risk modeling, and segmentation based customer churn analytics for personalized retention in e-commerce,” _arXiv_ preprint arXiv:2510.11604 [cs.AI], 2025. [Online]. Available: [https://arxiv.org/abs/2510.11604](https://arxiv.org/abs/2510.11604)
 - K. Gunathilake and I. Ekanayake, “[[K8s pro sentinel Extend secret security in kubernetes cluster]]” in _2024 9th International Conference on Information Technology Research (ICITR)_, 2024, pp. 1–5, doi: 10.1109/ICITR64794.2024.10857769.
-- M. Thariq and I. Ekanayake, “[[ARGO-SLSA Software Supply Chain Security in Argo Workflows]]” in Proc. 11th Moratuwa Engineering Research Conference (MERCon 2025), Moratuwa, Sri Lanka, 2025,
+- T. Mohomed and I. Ekanayake, "[[ARGO-SLSA Software Supply Chain Security in Argo Workflows]]," _2025 Moratuwa Engineering Research Conference (MERCon)_, Moratuwa, Sri Lanka, 2025, pp. 245-250, doi: 10.1109/MERCon67903.2025.11217128.
 
 </details>
 <details open>
@@ -142,6 +144,7 @@ I have an MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target
 
 - [[conference review/2025/Late Braking Work ACM Conference on Human Factors in Computing Systems (CHI)|Late Braking Work ACM Conference on Human Factors in Computing Systems (CHI)]]
 - [[IEEE 19th International Conference on Industrial and Information Systems(ICIIS)]]
+- [[IEEE 10th International Conference on Advances in Technology and Computing (ICATC)]]
 
 </details>
 

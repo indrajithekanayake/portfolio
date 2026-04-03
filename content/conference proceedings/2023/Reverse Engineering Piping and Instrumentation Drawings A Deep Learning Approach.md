@@ -17,9 +17,9 @@ Data visualization is an easy way to communicate knowledge ever since human evol
 
 **ISBN Information:**
 
-**Electronic ISBN:**979-8-3503-3446-3
+**Electronic ISBN:** 979-8-3503-3446-3
 
-**Print on Demand(PoD) ISBN:**979-8-3503-3447-0
+**Print on Demand(PoD) ISBN:** 979-8-3503-3447-0
 
 **DOI:** <a href="https://doi.org/10.1109/PICC57976.2023.10142454" target="_blank">10.1109/PICC57976.2023.10142454</a>.
 

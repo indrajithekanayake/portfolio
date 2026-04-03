@@ -14,15 +14,15 @@ Distributed systems widely adopt microservice architecture to handle growing com
 
 **Date of Conference:** 14-15 Aug 2025
 
-**Date Added to IEEE _Xplore_:** 
+**Date Added to IEEE _Xplore_:** 07 November 2025
 
-**ISBN Information:**
+**ISBN Information:** 
 
-**Electronic ISBN:**
+**Electronic ISBN:** 979-8-3315-6724-8
 
-**Print on Demand(PoD) ISBN:**
+**Print on Demand(PoD) ISBN:** 979-8-3315-6725-5
 
-**DOI:** <a href="https://doi.org/10.48550/arXiv.2503.20079" target="_blank">10.48550/arXiv.2503.20079</a>.
+**DOI:** <a href="https://doi.org/10.1109/MERCon67903.2025.11217128" target="_blank">10.1109/MERCon67903.2025.11217128</a>.
 
 **Publisher**: IEEE
 

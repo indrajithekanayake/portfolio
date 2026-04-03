@@ -103,7 +103,7 @@ I have an MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target
 <details open>
 <summary>2025</summary>
 
-- L. B. Jayasooriya, N. C. Jayasinghe, I. Ekanayake, and D. P. Rangoda, “[[Perceived Tendencies of Skilled Migration Amidst the Economic Crisis in Sri Lanka: A Case Study of the Education Sector]],” _Migration and Development_, 2025, Art. no. 21632324251343691.
+- L. B. Jayasooriya, N. C. Jayasinghe, **I. Ekanayake** , and D. P. Rangoda, “[[Perceived Tendencies of Skilled Migration Amidst the Economic Crisis in Sri Lanka: A Case Study of the Education Sector]],” _Migration and Development_, 2025, Art. no. 21632324251343691.
 
 </details>
 </details>
@@ -111,12 +111,18 @@ I have an MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target
 <details open>
 <summary style="font-size: 1.5em; font-weight: bold;">Indexed Conference Proceedings</summary>
 <details open>
+<summary>2026</summary>
+
+- **I. Ekanayake** and S. De Alwis, “[[Explainability, risk modeling, and segmentation based customer churn analytics for personalized retention in e-commerce]]” 2026 6th International Conference on Advanced Research in Computing (ICARC), Belihuloya, Sri Lanka, 2026,  pp. 1–5, doi: 10.48550/arXiv.2510.11604
+
+</details>
+
+<details open>
 <summary>2025</summary>
 
-- C. Wanigasooriya and I. Ekanayake, “NimbusGuard: A Novel Framework for Proactive Kubernetes Autoscaling Using Deep Q-Networks,” 2025, accepted and to be presented in 40th International Conference on Information Networking (ICOIN). IEEE.
-- S. De Alwis and I. Ekanayake, “Explainability, risk modeling, and segmentation based customer churn analytics for personalized retention in e-commerce,” _arXiv_ preprint arXiv:2510.11604 [cs.AI], 2025. [Online]. Available: [https://arxiv.org/abs/2510.11604](https://arxiv.org/abs/2510.11604)
-- K. Gunathilake and I. Ekanayake, “[[K8s pro sentinel Extend secret security in kubernetes cluster]]” in _2024 9th International Conference on Information Technology Research (ICITR)_, 2024, pp. 1–5, doi: 10.1109/ICITR64794.2024.10857769.
-- T. Mohomed and I. Ekanayake, "[[ARGO-SLSA Software Supply Chain Security in Argo Workflows]]," _2025 Moratuwa Engineering Research Conference (MERCon)_, Moratuwa, Sri Lanka, 2025, pp. 245-250, doi: 10.1109/MERCon67903.2025.11217128.
+- C. Wanigasooriya and **I. Ekanayake** , “NimbusGuard: A Novel Framework for Proactive Kubernetes Autoscaling Using Deep Q-Networks,” 2025, accepted and to be presented in 40th International Conference on Information Networking (ICOIN). IEEE.
+- K. Gunathilake and **I. Ekanayake** , “[[K8s pro sentinel Extend secret security in kubernetes cluster]]” 2024 9th International Conference on Information Technology Research (ICITR), 2024, pp. 1–5, doi: 10.1109/ICITR64794.2024.10857769.
+- T. Mohomed and **I. Ekanayake** , "[[ARGO-SLSA Software Supply Chain Security in Argo Workflows]]," 2025 Moratuwa Engineering Research Conference (MERCon), Moratuwa, Sri Lanka, 2025, pp. 245-250, doi: 10.1109/MERCon67903.2025.11217128.
 
 </details>
 <details open>
@@ -138,6 +144,13 @@ I have an MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target
 <!-- Conference review section start -->
 <details open>
 <summary style="font-size: 1.5em; font-weight: bold;">Conference Review Committees</summary>
+
+<details open>
+<summary>2026</summary>
+
+- [[2nd Applied Data Science & Artificial Intelligence Conference (ADScAI)]]
+
+</details>
 
 <details open>
 <summary>2025</summary>
@@ -165,6 +178,14 @@ I have an MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target
 
 > [!note]
 > Wants to invite me for a physical/ online session? I'm open for 1 session every month. Please fill out this [[Form for Speaking Engagements | Form]] to share your interest
+
+<details open>
+<summary>2026</summary>
+
+- [[CI CD and GitOps in Nutshell]]
+- [[Judge Microsoft Imagine Cup 2026 Minimum Viable Product (MVP) round]]
+
+</details>
 
 <details open>
 <summary>2025</summary>

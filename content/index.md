@@ -182,6 +182,8 @@ I have an MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target
 <details open>
 <summary>2026</summary>
 
+- [[OpenSearch for AssociationRule Mining With ActivityWatch]]
+- [[Beyond HPA, VPA and KEDA Proactive Kubernetes Autoscaling Using Deep Q-Networks]]
 - [[CI CD and GitOps in Nutshell]]
 - [[Judge Microsoft Imagine Cup 2026 Minimum Viable Product (MVP) round]]
 

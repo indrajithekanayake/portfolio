@@ -13,15 +13,15 @@ In online retail, the cost to attract new customers is higher than retaining exi
 
 **Date of Conference:**  18th and 19th of February 2026
 
-**Date Added to IEEE _Xplore_:** pending
+**Date Added to IEEE _Xplore_:** 31st March 2026
 
 **ISBN Information:**
 
-**Electronic ISBN:** pending
+**Electronic ISBN:** 979-8-3315-5723-2
 
-**Print on Demand(PoD) ISBN:** pending
+**Print on Demand(PoD) ISBN:** 979-8-3315-5724-9
 
-**DOI:** <a href="https://doi.org/10.48550/arXiv.2510.11604" target="_blank">10.48550/arXiv.2510.11604</a>.
+**DOI:** <a href="https://doi.org/10.48550/arXiv.2510.11604" target="_blank">10.1109/ICARC68737.2026.11454037</a>
 
 **Publisher**: IEEE
 

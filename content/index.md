@@ -114,6 +114,7 @@ I have an MBA from <a href="https://www.pim.sjp.ac.lk/" target="_blank">PIM, Uni
 <summary>2026</summary>
 
 - **I. Ekanayake** and S. De Alwis, “[[Explainability, risk modeling, and segmentation based customer churn analytics for personalized retention in e-commerce]]” 2026 6th International Conference on Advanced Research in Computing (ICARC), Belihuloya, Sri Lanka, 2026,  pp. 1–5, doi: 10.48550/arXiv.2510.11604
+- C. Wanigasooriya and **I. Ekanayake**, "[[NimbusGuard A Novel Framework for Proactive Kubernetes Autoscaling Using Deep Q-Networks]]," _2026 40th International Conference on Information Networking (ICOIN)_, Hanoi, Vietnam, 2026, pp. 726-731, doi: 10.1109/ICOIN68469.2026.11480646.
 
 </details>
 
@@ -182,6 +183,7 @@ I have an MBA from <a href="https://www.pim.sjp.ac.lk/" target="_blank">PIM, Uni
 <details open>
 <summary>2026</summary>
 
+- [[Predictive Kubernetes Autoscaling Past – Present – Future]]
 - [[OpenSearch for AssociationRule Mining With ActivityWatch]]
 - [[Beyond HPA, VPA and KEDA Proactive Kubernetes Autoscaling Using Deep Q-Networks]]
 - [[CI CD and GitOps in Nutshell]]

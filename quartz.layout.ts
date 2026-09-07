@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.Explorer({
         // note: this replaces the default filterFn, so "tags" must stay excluded here
-        filterFn: (node) => node.name !== "tags" && node.name !== "lfx",
+        filterFn: (node) => node.name !== "tags" && node.name !== "lfx-brain",
       }),
     ),
   ],
@@ -51,7 +51,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.Explorer({
         // note: this replaces the default filterFn, so "tags" must stay excluded here
-        filterFn: (node) => node.name !== "tags" && node.name !== "lfx",
+        filterFn: (node) => node.name !== "tags" && node.name !== "lfx-brain",
       }),
     ),
   ],

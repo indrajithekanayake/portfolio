@@ -1,7 +1,5 @@
 ---
-title: "Will Big Data Make Data Warehouse Obsolete"
-draft: false
-date: 2020-12-17
+title: Will Big Data Make Data Warehouse Obsolete
 tags:
   - 2020_talks
 ---

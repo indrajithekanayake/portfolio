@@ -1,7 +1,5 @@
 ---
-title: "Form for Speaking Engagements"
-draft: false
-date: 2024-03-05
+title: Form for Speaking Engagements
 tags:
   - 2025_talks
 ---

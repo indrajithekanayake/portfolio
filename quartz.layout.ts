@@ -26,7 +26,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(
+      Component.Explorer({
+        // note: this replaces the default filterFn, so "tags" must stay excluded here
+        filterFn: (node) => node.name !== "tags" && node.name !== "lfx",
+      }),
+    ),
   ],
   right: [
     Component.Graph(),
@@ -43,7 +48,12 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(
+      Component.Explorer({
+        // note: this replaces the default filterFn, so "tags" must stay excluded here
+        filterFn: (node) => node.name !== "tags" && node.name !== "lfx",
+      }),
+    ),
   ],
   right: [],
 }

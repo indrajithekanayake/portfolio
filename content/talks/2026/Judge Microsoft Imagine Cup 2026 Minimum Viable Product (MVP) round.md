@@ -10,6 +10,6 @@ Microsoft Imagine Cup program manager <a href="https://www.linkedin.com/in/samy-
 
 **Event Photographs:**
 <p>
-  <img src="../../images/ 2026-Imagine-Cup-Minimum-Viable-Product-Round.png" alt="Imagine Cup 2026 Minimum Viable Product Round"/>
+  <img src="../../images/2026-Imagine-Cup-Minimum-Viable-Product-Round.png" alt="Imagine Cup 2026 Minimum Viable Product Round"/>
 </p>
 
